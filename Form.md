@@ -81,10 +81,6 @@
       Reset:<input type="Reset" value="Reset now">
     
       <br />
-
-
   </form>
-
 </body>
-
 </html>
